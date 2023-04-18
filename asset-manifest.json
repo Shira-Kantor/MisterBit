@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shira-Kantor/MisterBit/static/css/main.fe2919ea.css",
+    "main.js": "/Shira-Kantor/MisterBit/static/js/main.8928183a.js",
+    "static/js/787.887c022c.chunk.js": "/Shira-Kantor/MisterBit/static/js/787.887c022c.chunk.js",
+    "index.html": "/Shira-Kantor/MisterBit/index.html",
+    "main.fe2919ea.css.map": "/Shira-Kantor/MisterBit/static/css/main.fe2919ea.css.map",
+    "main.8928183a.js.map": "/Shira-Kantor/MisterBit/static/js/main.8928183a.js.map",
+    "787.887c022c.chunk.js.map": "/Shira-Kantor/MisterBit/static/js/787.887c022c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2919ea.css",
+    "static/js/main.8928183a.js"
+  ]
+}
