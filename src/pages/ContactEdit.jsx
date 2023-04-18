@@ -2,6 +2,7 @@ import { Component, useEffect, useState } from 'react'
 import { contactService } from '../services/ContactService'
 import { useNavigate, useParams } from 'react-router-dom';
 import { useForm } from '../customHooks/useForm';
+import {Link} from "react-router-dom"
 
 export function ContactEdit(props) {
 
