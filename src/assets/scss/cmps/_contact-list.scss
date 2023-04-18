@@ -1,0 +1,14 @@
+.contacts-list {
+    margin-top: 50px;
+    width: 300px;
+   display: grid;
+//    margin-left: 40%;
+   overflow: scroll;
+   height: 400px;
+   .add-btn{
+       border-radius: 30px;
+       width: max-content;
+       justify-self: center;
+       margin: 10px;
+   }
+}

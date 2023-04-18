@@ -1,0 +1,39 @@
+.contact-edit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    form {
+        display: flex;
+        flex-direction: column;
+
+        label {
+            margin-top: 20px;
+        }
+
+        
+        button {
+           width: 20%;
+           border-radius: 30px;
+           
+           &.save-edit-btn {
+                  margin-top: 40px;
+               align-self: flex-end;
+           }
+           &.delete-edit-btn {
+               align-self: flex-start;
+               margin-top: 50px;
+           }
+
+
+       }
+        input {
+            border-radius: 30px;
+            padding: 5px;
+            width: 250px;
+
+        }
+    }
+
+}

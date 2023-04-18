@@ -1,0 +1,54 @@
+// Externals
+
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+
+// Basics
+@import "basics/typography";
+@import "basics/base";
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/modals";
+@import "basics/animations";
+
+// Views
+@import "views/_contact-index";
+@import "views/_contact-details";
+@import "views/_home-page";
+@import "views/_about";
+@import "views/_edit";
+
+// Components
+@import "cmps/_contact-preview";
+@import "cmps/_contact-list";
+@import "cmps/_contact-filter";
+@import "cmps/_app-header";
+@import "cmps/_app-footer";
+@import "cmps/_transfer";
+@import "cmps/_moves";
+
+
+
+
+.main-app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    .app-header {
+        background: #03a9f4;
+        color: white;
+    }
+
+    main {
+        flex-grow: 1;
+        width: 100%;
+    }
+
+    > footer {
+        background-color: #111;
+        color: white;
+    }
+}
