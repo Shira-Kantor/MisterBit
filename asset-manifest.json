@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MisterBit/static/css/main.fe2919ea.css",
-    "main.js": "/MisterBit/static/js/main.07fbd382.js",
+    "main.js": "/MisterBit/static/js/main.5d9404bc.js",
     "static/js/787.887c022c.chunk.js": "/MisterBit/static/js/787.887c022c.chunk.js",
     "index.html": "/MisterBit/index.html",
     "main.fe2919ea.css.map": "/MisterBit/static/css/main.fe2919ea.css.map",
-    "main.07fbd382.js.map": "/MisterBit/static/js/main.07fbd382.js.map",
+    "main.5d9404bc.js.map": "/MisterBit/static/js/main.5d9404bc.js.map",
     "787.887c022c.chunk.js.map": "/MisterBit/static/js/787.887c022c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe2919ea.css",
-    "static/js/main.07fbd382.js"
+    "static/js/main.5d9404bc.js"
   ]
 }
