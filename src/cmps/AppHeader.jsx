@@ -18,7 +18,11 @@ import { Link, NavLink, withRouter,useNavigate } from "react-router-dom";
     return (
         <header className="app-header">
             <section className="container">
-                <h1 className="logo">Contacts</h1>
+            <NavLink to="/signup" > 
+
+            <h1 className="logo">MisterBit</h1>
+            </NavLink>
+                {/* <h1 className="logo">Contacts</h1> */}
                 <section className="back">
                     <p>Name: {name}</p>
                     <p>balance: {coins}</p>
